@@ -8,7 +8,7 @@ Follow the steps below to prepare your Azure environment before running the note
 
 ---
 
-For the workshop slide deck, access the file below: <a href="https://drive.google.com/file/d/1j_VHtO41w9m06XFIqj0PHXklD7jlC8tP/view?usp=sharing" target="_blank">
+For the workshop slide deck, access the file below: <a href="https://drive.google.com/file/d/1A-D7loDdvAK7OoLBCqqcfRQxOAv5go0U/view?usp=sharing" target="_blank">
 Click here to open the presentation
 </a>
 
